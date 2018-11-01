@@ -27,18 +27,17 @@ Arch B4 u-dory
 ---
 
 @snap[south-west list-content-concise span-100]
-@ol
-
 ### 画像の符号化
 
+@ol
 - 予測符号化 |
 - 変換符号化 |
 - ベクトル量子化 |
 - エントロピー符号化 |
+@olend
 
 エントロピー量子化以外は画像の特徴を見越して行われる。 |
 
-@olend
 <br><br>
 @snapend
 
