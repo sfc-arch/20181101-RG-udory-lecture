@@ -262,5 +262,6 @@ Arch B4 u-dory
 #### エントロピー理論値
 
 `\[
-\sum \left( -P(X) \cdot \log_2 P(X) \right)  where P(X) = 配列中のXの出現確率
+\sum \left( -P(X) \cdot \log_2 P(X) \right) \\
+ where P(X) = 配列中のXの出現確率
 \]`
