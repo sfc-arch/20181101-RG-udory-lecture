@@ -304,6 +304,6 @@ Arch B4 u-dory
 
 `\[
 -1 \over 2 \cdot log_2{1 \over 2} -1 \over 3 \cdot log_2{1 \over 3} -1 \over 6 \cdot log_2{1 \over 6} \\
-　　\simeq 1.459
+　　\simeq 1.459 \\
 　　\simeq 1.46
 \]`
