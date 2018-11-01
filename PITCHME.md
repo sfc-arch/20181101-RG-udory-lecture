@@ -270,7 +270,7 @@ Arch B4 u-dory
 
 `\[
 -0.99 \cdot log_2{0.99} -0.01 \cdot log_2{0.01} \\
-　　　 \simeq 0.0808
+　　\simeq 0.0808
 \]`
 
 一文字あたりのエントロピーが0.08なので、100文字で8ビットまで理論上圧縮できる。
@@ -299,3 +299,11 @@ Arch B4 u-dory
 |出現数|3|2|1|
 |出現確率|`$ 1 \over 2 $`|`$ 1 \over 3 $`|`$ 1 \over 6 $`|
 
+この場合、エントロピーは
+
+
+`\[
+-1 \over 2 \cdot log_2{1 \over 2} -1 \over 3 \cdot log_2{1 \over 3} -1 \over 6 \cdot log_2{1 \over 6} \\
+　　\simeq 1.459
+　　\simeq 1.46
+\]`
