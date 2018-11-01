@@ -263,5 +263,13 @@ Arch B4 u-dory
 
 `\[
 \sum \left( -P(X) \cdot \log_2 P(X) \right) \\
- \verb|where| P(X) = 配列中のXの出現確率
+ \verb|where|　 P(X) = 配列中のXの出現確率
 \]`
+
+`a`が99コ、`b`が1コならば
+
+`\[
+-0.99 \cdot log_2{0.99} -0.01 \cdot log_2{0.01} \simeq 0.0808
+\]`
+
+一文字あたりのエントロピーが0.08なので、100文字で8ビットまで理論上圧縮できる。
