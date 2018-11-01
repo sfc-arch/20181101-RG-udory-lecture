@@ -11,21 +11,6 @@ Arch B4 u-dory
 
 ---
 
-@title[Slide Markdown]
-
-### Each slide in this presentation is provided as a *template*.
-
-<br><br>
-
-1. Select only the slide templates that you need.
-1. Customize the template _markdown content_.
-1. Optionally, override template _styles_ and _settings_.
-1. Then present and publish with GitPitch @fa[smile-o]
-
-<br><br>
-
----
-
 ### 画像の符号化
 
 <br><br>
@@ -123,7 +108,7 @@ Arch B4 u-dory
 <br><br>
 
 `\[
-\left( X = (A + C) \over 2 )
+{ X = (A + C) \over 2 }
 \]`
 
 <br><br>
