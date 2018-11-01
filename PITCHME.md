@@ -25,8 +25,10 @@ Arch B4 u-dory
 <br><br>
 
 ---
+
 @snap[south-west list-content-concise span-100]
 @ol
+
 ### 画像の符号化
 
 - 予測符号化 |
@@ -35,9 +37,11 @@ Arch B4 u-dory
 - エントロピー符号化 |
 
 エントロピー量子化以外は画像の特徴を見越して行われる。 |
+
 @olend
 <br><br>
 @snapend
+
 +++
 
 #### 予測符号化
