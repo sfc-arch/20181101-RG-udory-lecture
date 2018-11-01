@@ -263,5 +263,5 @@ Arch B4 u-dory
 
 `\[
 \sum \left( -P(X) \cdot \log_2 P(X) \right) \\
- where P(X) = 配列中のXの出現確率
+ \verb|where| P(X) = 配列中のXの出現確率
 \]`
