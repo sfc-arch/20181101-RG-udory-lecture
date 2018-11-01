@@ -108,7 +108,7 @@ Arch B4 u-dory
 <br><br>
 
 `\[
-{ X = (A + C) \over 2 }
+ X = { (A + C) \over 2 }
 \]`
 
 <br><br>
